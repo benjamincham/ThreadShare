@@ -5,9 +5,9 @@
 </div>
 
 <br>
-<div style="text-align: center;">
-  <img src="./asset/ThreadShare_logo.png" alt="Your Logo" width="100">
-</div>
+<p align="center">
+  <img src="./asset/ThreadShare_logo.png" alt="ThreadShare Logo" width="100">
+</p>
 <br>
 <p align="center">
     <strong>A Python library to maximise CPU usage by smartly sharing threads among multiple functions. </strong>
