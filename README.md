@@ -23,7 +23,7 @@ ThreadShare is an Python library designed to efficiently utilize a single CPU co
 ## Key Features
 - **Thread Loop Sharing**: Run multiple functions at different rates on shared threads.
 - **Dynamic Thread Management**: Automatically manages thread creation and load balancing.
-**Adaptive Load Balancing**: Dynamically allocate tasks to threads based on their load.
+- **Adaptive Load Balancing**: Dynamically allocate tasks to threads based on their load.
 - **Rate-Based Task Scheduling**: Schedules tasks based on their execution rates.
 - **Resource Monitoring**: Monitors CPU and memory usage to adaptively manage thread utilization.
 - **Graceful Shutdown**: Ensures all tasks are completed before shutting down.
